@@ -1,0 +1,44 @@
+
+Corp IT APAC IT Operations
+
+Root level \
+\ Operations
+                ANZ
+                        Australia
+                        New Zealand
+                                        AFAP Airport Oaks
+                                                            Network
+                                                                        Links to the \COE\Network\file.xlsx
+                                                            Documents
+                                                            Projects
+
+                                        AFAP Albany
+                                        AMPS Auckland
+
+                SEA
+                China
+                India
+\  Applications
+                China Applications
+
+
+\ COE
+                Network
+                Servers
+                Workstation
+
+\ Cybersecurity
+                APAC BCP
+
+\ HR
+                Talent
+
+\ Knowledge Sharing
+                APAC IT Meetings
+                Service Management
+                APAC KPI's
+                APAC DR Documents
+                Training
+                Service Management
+
+\ Projects
